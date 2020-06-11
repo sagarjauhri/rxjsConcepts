@@ -1,0 +1,7 @@
+.box-height {
+    height: 100px;
+    cursor: pointer;
+    &:hover {
+        background-color: rgba(135, 207, 235, 0.603);
+    }
+}
